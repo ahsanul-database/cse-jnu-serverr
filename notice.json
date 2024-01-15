@@ -22,5 +22,20 @@
     "room": "601",
     "course": "CSE 1205",
     "courseTeacher": "Arnisha mam"
+  },{
+    "type": "Semester Final Exam",
+    "date": "29/01/2024",
+    "time": "09:00 AM",
+    "room": "712",
+    "course": "CSE-1209 : Economics",
+    "courseTeacher": "Robiul Sir"
+  },
+   {
+    "type": "Semester Final Exam",
+    "date": "04/02/2024",
+    "time": "09:00 AM",
+    "room": "712",
+    "course": "CSE 1208 : Discrete Mathematics",
+    "courseTeacher": "Selina Mam"
   }
 ]
