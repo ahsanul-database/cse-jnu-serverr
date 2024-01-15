@@ -1,26 +1,26 @@
 [
-        {
-            "type": "semester final",
-            "date": "12/12/2021",
-            "time": "12:00 AM",
-            "room": "101",
-            "course": "CSE 101",
-            "courseTeacher": "Dr. X"
-        },
-        {
-            "type": "mid exam",
-            "date": "12/12/2021",
-            "time": "9:00 AM",
-            "room": "101",
-            "course": "CSE 101",
-            "courseTeacher": "Dr. X"
-        },
-        {
-            "type": "class",
-            "date": "15/01/2024",
-            "time": "01:00 PM",
-            "room": "101",
-            "course": "CSE 101",
-            "courseTeacher": "Dr. X"
-        }
+  {
+    "type": "mid exam",
+    "date": "15/01/2024",
+    "time": "01:00 PM",
+    "room": "601",
+    "course": "CSE 1207",
+    "courseTeacher": "Aminul Sir"
+  },
+  {
+    "type": "class",
+    "date": "15/01/2024",
+    "time": "02:00 PM",
+    "room": "601",
+    "course": "CSE 1207",
+    "courseTeacher": "Aminul Sir"
+  },
+  {
+    "type": "class",
+    "date": "15/01/2024",
+    "time": "09:00 AM",
+    "room": "601",
+    "course": "CSE 1205",
+    "courseTeacher": "Arnisha mam"
+  }
 ]
