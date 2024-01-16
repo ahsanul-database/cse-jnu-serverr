@@ -1,18 +1,122 @@
 [
   {
-    "type": "MID",
+    "type": "Semester Final",
     "semester": 12,
-    "batch": 12,
-    "course": "Economics",
-    "Qurl": "xyz.com",
-    "Aurl": ""
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSE-1203 DS Final",
+    "Qurl": "https://drive.google.com/file/d/1Orp2TvlurOMQ0ErT_zE10vNHCfqm8qFw/view?usp=drivesdk"
   },
   {
-    "type": "MID",
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSER-1205 BE Final",
+    "Qurl": "https://drive.google.com/file/d/19C8I0G9gNJFvmMW8Y4JQ0Pfb4adUrzYv/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSE-1201 OOP-1 Final",
+    "Qurl": "https://drive.google.com/file/d/1pBnKQmYcaZE8ntfICgXs0_sJbkXXJvbn/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "https://drive.google.com/file/d/1E5jeRZD_yzZ7G4nVARGSbNkrVkiFiG7h/view?usp=drivesdk",
+    "course": "CSER-1207 Math-2 Final",
+    "Qurl": "https://drive.google.com/file/d/1Z-ZhahiqMz8MD916Rc-V8ygQSSNp9wW3/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSE-1208 DM Final",
+    "Qurl": "https://drive.google.com/file/d/1RutSrmOm7ompZgjoXZh8MIV6kiN9vEq1/view?usp=drivesdk"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSER-1207 Math-2 Mid 2.png",
+    "Qurl": "https://drive.google.com/file/d/1Z7IeXiBkvUq_ORdiuknysA08HW2w_evp/view?usp=drivesdk"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSER-1207 Math-2 Mid 1.png",
+    "Qurl": "https://drive.google.com/file/d/1dzVQELhAas0x2qSB137Sz1d-4RpjGSQK/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSER-1209 Economics Final.jpg",
+    "Qurl": "https://drive.google.com/file/d/1MO2-iJdv-mZW3kPCrHh4MS0SnO5qWEog/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 11,
+    "Aurl": "",
+    "course": "CSEL-1206 BE Lab Final.jpg",
+    "Qurl": "https://drive.google.com/file/d/1ab2Kl24PATzUwn2-2t0RMN99G9Jkb9Yr/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
     "semester": 12,
     "batch": 12,
-    "course": "Economics",
-    "Qurl": "xyz.com",
-    "Aurl": ""
+    "Aurl": "",
+    "course": "Object Oriented Programming",
+    "Qurl": "https://drive.google.com/file/d/1aGQ5Y0Poa8SNk8SuIaZ1vZUb0SZW4VTD/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 12,
+    "Aurl": "",
+    "course": "Linear Algebra",
+    "Qurl": "https://drive.google.com/file/d/1aCR6rPpiF88udzVS8-ndmRxNBksA-Rpx/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 12,
+    "Aurl": "",
+    "course": "Data Structure",
+    "Qurl": "https://drive.google.com/file/d/1a7WPQQSOwp78a3RTHmNIc5MtswLgVLU7/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 12,
+    "Aurl": "",
+    "course": "Basic Electronics",
+    "Qurl": "https://drive.google.com/file/d/1a75Fv4dPs_iosBoGLetTEfTRv9GjTh-V/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 12,
+    "Aurl": "",
+    "course": "Discrete Mathematics",
+    "Qurl": "https://drive.google.com/file/d/1a0tZawZOeL3PUTDIkSPbQ3tZXKin2DiZ/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 12,
+    "Aurl": "",
+    "course": "Linear Algebra Sem Final",
+    "Qurl": "https://drive.google.com/file/d/1_ztWdWpGJTeEOtF6G6OmhT98eiAJO2p4/view?usp=drivesdk"
   }
 ]
