@@ -2,7 +2,7 @@
   {
     "type": "Semester Final Exam",
     "date": "29/01/2024",
-    "time": "09:00 AM",
+    "time": "12:30 PM",
     "room": "712",
     "course": "CSE-1209 : Economics",
     "courseTeacher": "Robiul Sir"
@@ -10,7 +10,7 @@
   {
     "type": "Semester Final Exam",
     "date": "04/02/2024",
-    "time": "09:00 AM",
+    "time": "12:30 PM",
     "room": "712",
     "course": "CSE 1208 : Discrete Mathematics",
     "courseTeacher": "Selina Mam"
@@ -18,7 +18,7 @@
   {
     "type": "Semester Final Exam",
     "date": "08/02/2024",
-    "time": "09:00 AM",
+    "time": "12:30 PM",
     "room": "721",
     "course": "CSE-1207: Mathematics-II(Linear Algebra)",
     "courseTeacher": "Farhana Mam"
@@ -26,7 +26,7 @@
   {
     "type": "Semester Final Exam",
     "date": "12/02/2024",
-    "time": "09:00 AM",
+    "time": "12:30 AM",
     "room": "712",
     "course": "CSE-1203: Basic Electronics",
     "courseTeacher": "Uzzal Sir"
@@ -42,7 +42,7 @@
   {
     "type": "Semester Final Exam",
     "date": "19/02/2024",
-    "time": "09:00 AM",
+    "time": "12:30 PM",
     "room": "712",
     "course": "CSE-1205: Data Structure",
     "courseTeacher": "Arnisha Mam"
@@ -58,7 +58,7 @@
   {
     "type": "Semester Final Exam",
     "date": "28/02/2024",
-    "time": "09:00 AM",
+    "time": "12:30 PM",
     "room": "712",
     "course": "CSE-1202:Object Oriented Programming",
     "courseTeacher": "aminul sir"
@@ -72,12 +72,12 @@
     "courseTeacher": "aminul sir"
   },
   {
-    "type": "Mid exam",
-    "date": "23/01/2024",
+    "type": "Viva Voce Exam",
+    "date": "06/03/2024",
     "time": "09:00 AM",
-    "room": "VC Room",
-    "course": "Discrete Mathematics 3rd Mid Exam",
-    "courseTeacher": "Selina Mam"
+    "room": "712",
+    "course": "Viva Voce",
+    "courseTeacher": "All Faculty member"
   },
   {
     "type": "Mid exam",
