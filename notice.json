@@ -78,5 +78,13 @@
     "room": "VC Room",
     "course": "Discrete Mathematics 3rd Mid Exam",
     "courseTeacher": "Selina Mam"
+  },
+  {
+    "type": "Mid exam",
+    "date": "23/01/2024",
+    "time": "09:00 AM",
+    "room": "VC Room",
+    "course": "Discrete Mathematics 3rd Mid Exam",
+    "courseTeacher": "Selina Mam"
   }
 ]
