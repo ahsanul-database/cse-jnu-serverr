@@ -102,5 +102,13 @@
     "room": "VC Room",
     "course": "CSE-1203: Basic Electronics",
     "courseTeacher": "Alamin  Talukder"
+  },
+  {
+    "type": "One Years",
+    "date": "22/01/2024",
+    "time": "09:00 AM",
+    "room": "VC Room",
+    "course": "Anniversary",
+    "courseTeacher": "NULL"
   }
 ]
