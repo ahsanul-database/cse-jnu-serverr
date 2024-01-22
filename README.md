@@ -18,7 +18,7 @@
     "date": "23/01/2024",
     "time": "09:00 AM",
     "room": "VC Room",
-    "syllabus": "Details of Class/Exam",
+    "syllabus": ["Details of Class/Exam"],
     "course": "Course Name",
     "courseTeacher": "Teacher Name"
   }
