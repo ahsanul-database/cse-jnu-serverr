@@ -80,8 +80,8 @@
     "courseTeacher": "All Faculty member"
   },
   {
-    "type": "Mid exam",
-    "date": "23/01/2024",
+    "type": "Mid exam changed date",
+    "date": "24/01/2024",
     "time": "09:00 AM",
     "room": "VC Room",
     "syllabus": "Mid syllabus : 9.4, 9.5, 10.1, 10.3,counting, number theory,proof",
@@ -112,12 +112,4 @@
     "course": "Anniversary",
     "courseTeacher": "NULL"
   },
-  {
-    "type": "DM mid changed date",
-    "date": "24/01/2024",
-    "time": "not confirmed yet",
-    "room": "VC Room",
-    "course": "Discrete mathmatics",
-    "courseTeacher": "Selina ma'am"
-  }
-]
+ 
