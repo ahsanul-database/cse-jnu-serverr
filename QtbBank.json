@@ -118,5 +118,294 @@
     "Aurl": "",
     "course": "Linear Algebra",
     "Qurl": "https://drive.google.com/file/d/1_ztWdWpGJTeEOtF6G6OmhT98eiAJO2p4/view?usp=drivesdk"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1PfvYMTRTCK6hgn26Mqs7pcTcI-D4JLsw/view?usp=drivesdk",
+    "course": "Discrete Mathematics Semester Final"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1SwNeDVt3b72pp2w0eAynjZtv9l5cnXht/view?usp=drivesdk",
+    "course": "Linear Algebra"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1qNQdnZbDYwqH4CkHzw9RuarWOJhL2tiR/view?usp=drivesdk",
+    "course": "Object Oriented Programming Semester Final"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1dnq5-o399PnAs47D2HxJLlEbik3c-qjv/view?usp=drivesdk",
+    "course": "Data Structure Semester Final"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1nV5LaH-ptVWS05U0ZPBml0D87erAFMn3/view?usp=drivesdk",
+    "course": "Basic Electronics Semester Final"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1slsydhvJmw-2K-084hcdzMiD886ycZAv/view?usp=drivesdk",
+    "course": "Discrete Mathematics Mid-2"
+  },
+  {
+    "type": "Mid 3",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/171lFPhZV9Obq2JHwCnp7CTE2FkFnNV26/view?usp=drivesdk",
+    "course": "Basic Electronics Mid-3"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/15hi0aAh_b0_MmbDOen_97VEE8XrKM5o1/view?usp=drivesdk",
+    "course": "Discrete Mathematics Mid-1"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/14pCoA6b5RCJidAcfOmeuD4zjatNkhsFf/view?usp=drivesdk",
+    "course": "Basic Electronics Mid-2"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/15v3i8c4NOV7vfhw8hjsjmbU1-YeLy8vP/view?usp=drivesdk",
+    "course": "Data Structure 2nd Mid"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1Ba-B0duWwnpQBhmUb2Ap9LEWIO5FqNvp/view?usp=drivesdk",
+    "course": "Object Oriented Programming Mid-2"
+  },
+  {
+    "type": "Mid",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1AhK2QhJYnf2geIv6wQ61YiLFoqMAlBNb/view?usp=drivesdk",
+    "course": "Data Structure Lab Mid"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/10onCoXHuBZSHoT__XJQWA1r6_4lX9g6T/view?usp=drivesdk",
+    "course": "Object Oriented Programming Mid"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1PHD0Vu0ucoUqzBqa-7peRdoGTe-c0soO/view?usp=drivesdk",
+    "course": "Object Oriented Programming Lab Set-B"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/10jzRTEk8OVaaCRIyGzBaijg7BGQtK0Qc/view?usp=drivesdk",
+    "course": "Object Oriented Programming Lab Set-A"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 8,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1ULzZDpv_-7q9o5qRj4clngOmkuYXjChG/view?usp=drivesdk",
+    "course": "Basic Electronics Set-C"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/14iHcQy2xlxrwwCpvCzhvVfIOEGmmOsh7/view?usp=drivesdk",
+    "course": "Discrete Mathematics"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1uHvfdl1RKT_ziwnL7c6gpu2xBTpl9oEc/view?usp=drivesdk",
+    "course": "Data Structure"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/18bOFCh4sZh9rVKUkkMlhmyP54WaLWdaD/view?usp=drivesdk",
+    "course": "Object Oriented Programming"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1SBam5uHDIMNBCvgbfWfw1FciLoqz7e-7/view?usp=drivesdk",
+    "course": "Basic Electronics"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1CFlcKTqKIKlFPL0f6reSGLidWmj-W5Wr/view?usp=drivesdk",
+    "course": "Linear Algebra"
+  },
+  {
+    "type": "Semester Final",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1azvyAfEfrl_kwT9rEdz0qLa-D6S3U2LM/view?usp=drivesdk",
+    "course": "Economics"
+  },
+
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1Jci-8B1DnDERLnBgEZppGa15-G48pMjP/view?usp=drivesdk",
+    "course": "Object Oriented Programming Mid 1"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1Y_nghZfE_KYDulj4VSBwrXYn9FIy4Ojd/view?usp=drivesdk",
+    "course": "Object Oriented Programming mid-2"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1KTuwniwIgr37FR99v4JbjfltdzlOS-9j/view?usp=drivesdk",
+    "course": "Data Structure 1st mid"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/10Ke7_FbLrdpYy5AzZ5sXnfKT7sdpb3CJ/view?usp=drivesdk",
+    "course": "Linear Algebra mid-1"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/17z76isVqDzrt0BOyIfcqo-VCcmTnrCgQ/view?usp=drivesdk",
+    "course": "Linear Algebra mid 2"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1sMaC3XBj6zzN5MojhJq9ZH-ufbS5PaJJ/view?usp=drivesdk",
+    "course": "Basic Electronics Mid-2"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/13-UXDYKj7Svb3NNrCAdP4An47xAKjxQx/view?usp=drivesdk",
+    "course": "Economics Mid-1"
+  },
+  {
+    "type": "Mid 3",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1QPqBbXZf1XqmlAqZ0kT99tHS88akd05X/view?usp=drivesdk",
+    "course": "Linear Algebra Mid-3"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1Y46pDLmyDmAowUZGoJXwSt1hSy331Db2/view?usp=drivesdk",
+    "course": "Data Structure Mid-1"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1R6GsRaxZVRkt74HknSAKrdSnz3rCKX8m/view?usp=drivesdk",
+    "course": "Discrete Mathematics"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1S4yPQCzENHvhETTdIJnTePLhPDhA_ruv/view?usp=drivesdk",
+    "course": "Data Structure mid-2"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1hXXSavFx23IccFPQAh-c1sUx1m5CG9Rd/view?usp=drivesdk",
+    "course": "Object Oriented Programming Mid-1 set-B"
+  },
+  {
+    "type": "Mid 1",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1MxXa86ttjFBnWNyhC3j-8kyofVbVl_Go/view?usp=drivesdk",
+    "course": "Basic Electronics"
+  },
+  {
+    "type": "Mid 2",
+    "semester": 12,
+    "batch": 10,
+    "Aurl": "",
+    "Qurl": "https://drive.google.com/file/d/1FfqQ2MVNAPBuQ5rtvHhLEpqMgY0eZCab/view?usp=drivesdk",
+    "course": "Object Oriented Programming Mid-2 set-B"
   }
 ]
