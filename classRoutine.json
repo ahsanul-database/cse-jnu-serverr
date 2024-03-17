@@ -12,14 +12,6 @@
       },
       {
         "time": "10:30 - 11:30",
-        "course": "Introduction to Statistic and Probability",
-        "courseCode": "CSE-2106",
-        "type": "Non-Major",
-        "teacher": "Shahnaz Parvin ",
-        "room": "Room-721"
-      },
-      {
-        "time": "11:30 - 12:30",
         "course": "Financial and Managerial Accounting",
         "courseCode": "CSER-2109",
         "type": "Non-Major",
@@ -106,23 +98,7 @@
     "day": "Thursday",
     "routine": [
       {
-        "time": "8:30 - 10:00",
-        "course": "Financial and Managerial Accounting",
-        "courseCode": "CSER-2109",
-        "type": "Non-Major",
-        "teacher": "Dr. Omor Faruk ",
-        "room": "Room-721"
-      },
-      {
-        "time": "10:00 - 11:00",
-        "course": "Math- III (Ordinary differential Equation)",
-        "courseCode": "CSER-2105",
-        "type": "Non-Major",
-        "teacher": "Md. Ashraful Islam ",
-        "room": "Room-721"
-      },
-      {
-        "time": "11:00 - 12:30",
+        "time": "8:00 - 10:45",
         "course": "Digital Logic Design Lab",
         "courseCode": "CSEL-2104",
         "type": "Major",
@@ -130,7 +106,24 @@
         "room": "Hardware Lab: 5th Floor"
       },
       {
-        "time": "10:30 - 11:30",
+        "time": "10:45 - 11:30",
+        "course": "Financial and Managerial Accounting",
+        "courseCode": "CSER-2109",
+        "type": "Non-Major",
+        "teacher": "Dr. Omor Faruk ",
+        "room": "Room-721"
+      },
+      {
+        "time": "11:30 - 12:30",
+        "course": "Math- III (Ordinary differential Equation)",
+        "courseCode": "CSER-2105",
+        "type": "Non-Major",
+        "teacher": "Md. Ashraful Islam ",
+        "room": "Room-721"
+      },
+
+      {
+        "time": "1:30 - 3:30",
         "course": "Introduction to Statistic and Probability",
         "courseCode": "CSE-2106",
         "type": "Non-Major",
